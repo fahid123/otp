@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "255628998280",
+    "firebase_url": "https://insta-4cb68-default-rtdb.firebaseio.com",
+    "project_id": "insta-4cb68",
+    "storage_bucket": "insta-4cb68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255628998280:android:ef3d2773fceed43814113d",
+        "android_client_info": {
+          "package_name": "com.example.insta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE2lroaSUBPlp5tszCoPWkZiTVJ4cb-_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255628998280:android:6619bb21c836fa0114113d",
+        "android_client_info": {
+          "package_name": "com.example.otp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE2lroaSUBPlp5tszCoPWkZiTVJ4cb-_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255628998280:android:845ceb2c4da5479014113d",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE2lroaSUBPlp5tszCoPWkZiTVJ4cb-_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
